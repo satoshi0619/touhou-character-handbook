@@ -1,0 +1,4473 @@
+{
+  "schemaVersion": "1.0",
+  "title": "幻想乡博物志",
+  "subtitle": "东方Project人物手册",
+  "edition": "2026年10月修订版",
+  "updatedAt": "2026-10-15",
+  "scope": "沿用原册主要人物范围，包含《东方锦上京》、秘封俱乐部及Reisen。按独立人物建档，形态合并；作品入口为已整理的精选登场记录。",
+  "stats": {
+    "pages": 155,
+    "profiles": 137,
+    "chapters": 8
+  },
+  "chapters": [
+    {
+      "id": "I",
+      "title": "红雾与湖畔",
+      "subtitle": "红魔乡 · 雾之湖 · 红魔馆",
+      "page": 2,
+      "profileIds": [
+        "touhou-001",
+        "touhou-002",
+        "touhou-003",
+        "touhou-004",
+        "touhou-005",
+        "touhou-006",
+        "touhou-007",
+        "touhou-008",
+        "touhou-009"
+      ]
+    },
+    {
+      "id": "II",
+      "title": "冥界与境界",
+      "subtitle": "妖妖梦 · 白玉楼 · 八云家",
+      "page": 12,
+      "profileIds": [
+        "touhou-010",
+        "touhou-011",
+        "touhou-012",
+        "touhou-013",
+        "touhou-014",
+        "touhou-015",
+        "touhou-016",
+        "touhou-017",
+        "touhou-018",
+        "touhou-019",
+        "touhou-020",
+        "touhou-021"
+      ]
+    },
+    {
+      "id": "III",
+      "title": "永夜与花之季",
+      "subtitle": "永夜抄 · 花映塚 · 迷途竹林",
+      "page": 26,
+      "profileIds": [
+        "touhou-022",
+        "touhou-023",
+        "touhou-024",
+        "touhou-025",
+        "touhou-026",
+        "touhou-027",
+        "touhou-028",
+        "touhou-030",
+        "touhou-031",
+        "touhou-032",
+        "touhou-033",
+        "touhou-034",
+        "touhou-035"
+      ]
+    },
+    {
+      "id": "IV",
+      "title": "山岳与天界",
+      "subtitle": "风神录 · 绯想天 · 妖怪之山",
+      "page": 41,
+      "profileIds": [
+        "touhou-036",
+        "touhou-037",
+        "touhou-038",
+        "touhou-039",
+        "touhou-040",
+        "touhou-041",
+        "touhou-042",
+        "touhou-043",
+        "touhou-044",
+        "touhou-045"
+      ]
+    },
+    {
+      "id": "V",
+      "title": "地底与命莲寺",
+      "subtitle": "地灵殿 · 星莲船 · 旧地狱",
+      "page": 52,
+      "profileIds": [
+        "touhou-046",
+        "touhou-047",
+        "touhou-048",
+        "touhou-049",
+        "touhou-050",
+        "touhou-051",
+        "touhou-052",
+        "touhou-053",
+        "touhou-054",
+        "touhou-055",
+        "touhou-056",
+        "touhou-138",
+        "touhou-057",
+        "touhou-058",
+        "touhou-059",
+        "touhou-060",
+        "touhou-061",
+        "touhou-062",
+        "touhou-063",
+        "touhou-064"
+      ]
+    },
+    {
+      "id": "VI",
+      "title": "神灵、辉针与都市传说",
+      "subtitle": "神灵庙 · 辉针城 · 深秘录",
+      "page": 74,
+      "profileIds": [
+        "touhou-065",
+        "touhou-066",
+        "touhou-067",
+        "touhou-068",
+        "touhou-069",
+        "touhou-070",
+        "touhou-071",
+        "touhou-072",
+        "touhou-073",
+        "touhou-074",
+        "touhou-075",
+        "touhou-076",
+        "touhou-077",
+        "touhou-078",
+        "touhou-079",
+        "touhou-080",
+        "touhou-081"
+      ]
+    },
+    {
+      "id": "VII",
+      "title": "月都、四季与兽之国",
+      "subtitle": "绀珠传至兽王园",
+      "page": 93,
+      "profileIds": [
+        "touhou-082",
+        "touhou-083",
+        "touhou-084",
+        "touhou-085",
+        "touhou-086",
+        "touhou-087",
+        "touhou-088",
+        "touhou-089",
+        "touhou-090",
+        "touhou-091",
+        "touhou-092",
+        "touhou-093",
+        "touhou-094",
+        "touhou-095",
+        "touhou-096",
+        "touhou-097",
+        "touhou-098",
+        "touhou-099",
+        "touhou-100",
+        "touhou-101",
+        "touhou-102",
+        "touhou-103",
+        "touhou-104",
+        "touhou-105",
+        "touhou-106",
+        "touhou-107",
+        "touhou-108",
+        "touhou-109",
+        "touhou-110",
+        "touhou-111",
+        "touhou-112",
+        "touhou-113",
+        "touhou-114",
+        "touhou-115",
+        "touhou-116",
+        "touhou-117",
+        "touhou-118",
+        "touhou-119",
+        "touhou-120",
+        "touhou-121",
+        "touhou-122"
+      ]
+    },
+    {
+      "id": "VIII",
+      "title": "书籍、秘封与主角",
+      "subtitle": "出版物核心角色 · 锦上京 · 幻想乡内外",
+      "page": 139,
+      "profileIds": [
+        "touhou-123",
+        "touhou-124",
+        "touhou-125",
+        "touhou-126",
+        "touhou-127",
+        "touhou-128",
+        "touhou-129",
+        "touhou-130",
+        "touhou-131",
+        "touhou-132",
+        "touhou-133",
+        "touhou-134",
+        "touhou-135",
+        "touhou-136",
+        "touhou-137"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "type": "cover",
+      "title": "幻想乡博物志 · 东方人物手册",
+      "image": "assets/pages/slide-001.webp"
+    },
+    {
+      "page": 2,
+      "type": "catalog",
+      "title": "红雾与湖畔",
+      "chapterId": "I",
+      "image": "assets/pages/slide-002.webp",
+      "profileIds": [
+        "touhou-001",
+        "touhou-002",
+        "touhou-003",
+        "touhou-004",
+        "touhou-005",
+        "touhou-006",
+        "touhou-007",
+        "touhou-008",
+        "touhou-009"
+      ]
+    },
+    {
+      "page": 3,
+      "type": "profile",
+      "title": "露米娅",
+      "chapterId": "I",
+      "image": "assets/pages/slide-003.webp",
+      "characterId": "touhou-001"
+    },
+    {
+      "page": 4,
+      "type": "profile",
+      "title": "大妖精",
+      "chapterId": "I",
+      "image": "assets/pages/slide-004.webp",
+      "characterId": "touhou-002"
+    },
+    {
+      "page": 5,
+      "type": "profile",
+      "title": "琪露诺",
+      "chapterId": "I",
+      "image": "assets/pages/slide-005.webp",
+      "characterId": "touhou-003"
+    },
+    {
+      "page": 6,
+      "type": "profile",
+      "title": "红美铃",
+      "chapterId": "I",
+      "image": "assets/pages/slide-006.webp",
+      "characterId": "touhou-004"
+    },
+    {
+      "page": 7,
+      "type": "profile",
+      "title": "小恶魔",
+      "chapterId": "I",
+      "image": "assets/pages/slide-007.webp",
+      "characterId": "touhou-005"
+    },
+    {
+      "page": 8,
+      "type": "profile",
+      "title": "帕秋莉·诺蕾姬",
+      "chapterId": "I",
+      "image": "assets/pages/slide-008.webp",
+      "characterId": "touhou-006"
+    },
+    {
+      "page": 9,
+      "type": "profile",
+      "title": "十六夜咲夜",
+      "chapterId": "I",
+      "image": "assets/pages/slide-009.webp",
+      "characterId": "touhou-007"
+    },
+    {
+      "page": 10,
+      "type": "profile",
+      "title": "蕾米莉亚·斯卡蕾特",
+      "chapterId": "I",
+      "image": "assets/pages/slide-010.webp",
+      "characterId": "touhou-008"
+    },
+    {
+      "page": 11,
+      "type": "profile",
+      "title": "芙兰朵露·斯卡蕾特",
+      "chapterId": "I",
+      "image": "assets/pages/slide-011.webp",
+      "characterId": "touhou-009"
+    },
+    {
+      "page": 12,
+      "type": "catalog",
+      "title": "冥界与境界 1/2",
+      "chapterId": "II",
+      "image": "assets/pages/slide-012.webp",
+      "profileIds": [
+        "touhou-010",
+        "touhou-011",
+        "touhou-012",
+        "touhou-013",
+        "touhou-014",
+        "touhou-015"
+      ]
+    },
+    {
+      "page": 13,
+      "type": "catalog",
+      "title": "冥界与境界 2/2",
+      "chapterId": "II",
+      "image": "assets/pages/slide-013.webp",
+      "profileIds": [
+        "touhou-016",
+        "touhou-017",
+        "touhou-018",
+        "touhou-019",
+        "touhou-020",
+        "touhou-021"
+      ]
+    },
+    {
+      "page": 14,
+      "type": "profile",
+      "title": "蕾蒂·霍瓦特洛克",
+      "chapterId": "II",
+      "image": "assets/pages/slide-014.webp",
+      "characterId": "touhou-010"
+    },
+    {
+      "page": 15,
+      "type": "profile",
+      "title": "橙",
+      "chapterId": "II",
+      "image": "assets/pages/slide-015.webp",
+      "characterId": "touhou-011"
+    },
+    {
+      "page": 16,
+      "type": "profile",
+      "title": "爱丽丝·玛格特洛依德",
+      "chapterId": "II",
+      "image": "assets/pages/slide-016.webp",
+      "characterId": "touhou-012"
+    },
+    {
+      "page": 17,
+      "type": "profile",
+      "title": "莉莉霍瓦特",
+      "chapterId": "II",
+      "image": "assets/pages/slide-017.webp",
+      "characterId": "touhou-013"
+    },
+    {
+      "page": 18,
+      "type": "profile",
+      "title": "露娜萨·普莉兹姆利巴",
+      "chapterId": "II",
+      "image": "assets/pages/slide-018.webp",
+      "characterId": "touhou-014"
+    },
+    {
+      "page": 19,
+      "type": "profile",
+      "title": "梅露兰·普莉兹姆利巴",
+      "chapterId": "II",
+      "image": "assets/pages/slide-019.webp",
+      "characterId": "touhou-015"
+    },
+    {
+      "page": 20,
+      "type": "profile",
+      "title": "莉莉卡·普莉兹姆利巴",
+      "chapterId": "II",
+      "image": "assets/pages/slide-020.webp",
+      "characterId": "touhou-016"
+    },
+    {
+      "page": 21,
+      "type": "profile",
+      "title": "魂魄妖梦",
+      "chapterId": "II",
+      "image": "assets/pages/slide-021.webp",
+      "characterId": "touhou-017"
+    },
+    {
+      "page": 22,
+      "type": "profile",
+      "title": "西行寺幽幽子",
+      "chapterId": "II",
+      "image": "assets/pages/slide-022.webp",
+      "characterId": "touhou-018"
+    },
+    {
+      "page": 23,
+      "type": "profile",
+      "title": "八云蓝",
+      "chapterId": "II",
+      "image": "assets/pages/slide-023.webp",
+      "characterId": "touhou-019"
+    },
+    {
+      "page": 24,
+      "type": "profile",
+      "title": "八云紫",
+      "chapterId": "II",
+      "image": "assets/pages/slide-024.webp",
+      "characterId": "touhou-020"
+    },
+    {
+      "page": 25,
+      "type": "profile",
+      "title": "伊吹萃香",
+      "chapterId": "II",
+      "image": "assets/pages/slide-025.webp",
+      "characterId": "touhou-021"
+    },
+    {
+      "page": 26,
+      "type": "catalog",
+      "title": "永夜与花之季 1/2",
+      "chapterId": "III",
+      "image": "assets/pages/slide-026.webp",
+      "profileIds": [
+        "touhou-022",
+        "touhou-023",
+        "touhou-024",
+        "touhou-025",
+        "touhou-026",
+        "touhou-027",
+        "touhou-028"
+      ]
+    },
+    {
+      "page": 27,
+      "type": "catalog",
+      "title": "永夜与花之季 2/2",
+      "chapterId": "III",
+      "image": "assets/pages/slide-027.webp",
+      "profileIds": [
+        "touhou-030",
+        "touhou-031",
+        "touhou-032",
+        "touhou-033",
+        "touhou-034",
+        "touhou-035"
+      ]
+    },
+    {
+      "page": 28,
+      "type": "profile",
+      "title": "莉格露·奈特巴格",
+      "chapterId": "III",
+      "image": "assets/pages/slide-028.webp",
+      "characterId": "touhou-022"
+    },
+    {
+      "page": 29,
+      "type": "profile",
+      "title": "米斯蒂娅·萝蕾拉",
+      "chapterId": "III",
+      "image": "assets/pages/slide-029.webp",
+      "characterId": "touhou-023"
+    },
+    {
+      "page": 30,
+      "type": "profile",
+      "title": "上白泽慧音",
+      "chapterId": "III",
+      "image": "assets/pages/slide-030.webp",
+      "characterId": "touhou-024"
+    },
+    {
+      "page": 31,
+      "type": "profile",
+      "title": "因幡天为",
+      "chapterId": "III",
+      "image": "assets/pages/slide-031.webp",
+      "characterId": "touhou-025"
+    },
+    {
+      "page": 32,
+      "type": "profile",
+      "title": "铃仙·优昙华院·因幡",
+      "chapterId": "III",
+      "image": "assets/pages/slide-032.webp",
+      "characterId": "touhou-026"
+    },
+    {
+      "page": 33,
+      "type": "profile",
+      "title": "八意永琳",
+      "chapterId": "III",
+      "image": "assets/pages/slide-033.webp",
+      "characterId": "touhou-027"
+    },
+    {
+      "page": 34,
+      "type": "profile",
+      "title": "蓬莱山辉夜",
+      "chapterId": "III",
+      "image": "assets/pages/slide-034.webp",
+      "characterId": "touhou-028"
+    },
+    {
+      "page": 35,
+      "type": "profile",
+      "title": "藤原妹红",
+      "chapterId": "III",
+      "image": "assets/pages/slide-035.webp",
+      "characterId": "touhou-030"
+    },
+    {
+      "page": 36,
+      "type": "profile",
+      "title": "梅蒂欣·梅兰可莉",
+      "chapterId": "III",
+      "image": "assets/pages/slide-036.webp",
+      "characterId": "touhou-031"
+    },
+    {
+      "page": 37,
+      "type": "profile",
+      "title": "风见幽香",
+      "chapterId": "III",
+      "image": "assets/pages/slide-037.webp",
+      "characterId": "touhou-032"
+    },
+    {
+      "page": 38,
+      "type": "profile",
+      "title": "射命丸文",
+      "chapterId": "III",
+      "image": "assets/pages/slide-038.webp",
+      "characterId": "touhou-033"
+    },
+    {
+      "page": 39,
+      "type": "profile",
+      "title": "小野塚小町",
+      "chapterId": "III",
+      "image": "assets/pages/slide-039.webp",
+      "characterId": "touhou-034"
+    },
+    {
+      "page": 40,
+      "type": "profile",
+      "title": "四季映姬·夜摩仙那度",
+      "chapterId": "III",
+      "image": "assets/pages/slide-040.webp",
+      "characterId": "touhou-035"
+    },
+    {
+      "page": 41,
+      "type": "catalog",
+      "title": "山岳与天界",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-041.webp",
+      "profileIds": [
+        "touhou-036",
+        "touhou-037",
+        "touhou-038",
+        "touhou-039",
+        "touhou-040",
+        "touhou-041",
+        "touhou-042",
+        "touhou-043",
+        "touhou-044",
+        "touhou-045"
+      ]
+    },
+    {
+      "page": 42,
+      "type": "profile",
+      "title": "秋静叶",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-042.webp",
+      "characterId": "touhou-036"
+    },
+    {
+      "page": 43,
+      "type": "profile",
+      "title": "秋穰子",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-043.webp",
+      "characterId": "touhou-037"
+    },
+    {
+      "page": 44,
+      "type": "profile",
+      "title": "键山雏",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-044.webp",
+      "characterId": "touhou-038"
+    },
+    {
+      "page": 45,
+      "type": "profile",
+      "title": "河城荷取",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-045.webp",
+      "characterId": "touhou-039"
+    },
+    {
+      "page": 46,
+      "type": "profile",
+      "title": "犬走椛",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-046.webp",
+      "characterId": "touhou-040"
+    },
+    {
+      "page": 47,
+      "type": "profile",
+      "title": "东风谷早苗",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-047.webp",
+      "characterId": "touhou-041"
+    },
+    {
+      "page": 48,
+      "type": "profile",
+      "title": "八坂神奈子",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-048.webp",
+      "characterId": "touhou-042"
+    },
+    {
+      "page": 49,
+      "type": "profile",
+      "title": "洩矢诹访子",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-049.webp",
+      "characterId": "touhou-043"
+    },
+    {
+      "page": 50,
+      "type": "profile",
+      "title": "永江衣玖",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-050.webp",
+      "characterId": "touhou-044"
+    },
+    {
+      "page": 51,
+      "type": "profile",
+      "title": "比那名居天子",
+      "chapterId": "IV",
+      "image": "assets/pages/slide-051.webp",
+      "characterId": "touhou-045"
+    },
+    {
+      "page": 52,
+      "type": "catalog",
+      "title": "地底与命莲寺 1/2",
+      "chapterId": "V",
+      "image": "assets/pages/slide-052.webp",
+      "profileIds": [
+        "touhou-046",
+        "touhou-047",
+        "touhou-048",
+        "touhou-049",
+        "touhou-050",
+        "touhou-051",
+        "touhou-052",
+        "touhou-053",
+        "touhou-054",
+        "touhou-055"
+      ]
+    },
+    {
+      "page": 53,
+      "type": "catalog",
+      "title": "地底与命莲寺 2/2",
+      "chapterId": "V",
+      "image": "assets/pages/slide-053.webp",
+      "profileIds": [
+        "touhou-056",
+        "touhou-138",
+        "touhou-057",
+        "touhou-058",
+        "touhou-059",
+        "touhou-060",
+        "touhou-061",
+        "touhou-062",
+        "touhou-063",
+        "touhou-064"
+      ]
+    },
+    {
+      "page": 54,
+      "type": "profile",
+      "title": "琪斯美",
+      "chapterId": "V",
+      "image": "assets/pages/slide-054.webp",
+      "characterId": "touhou-046"
+    },
+    {
+      "page": 55,
+      "type": "profile",
+      "title": "黑谷山女",
+      "chapterId": "V",
+      "image": "assets/pages/slide-055.webp",
+      "characterId": "touhou-047"
+    },
+    {
+      "page": 56,
+      "type": "profile",
+      "title": "水桥帕露西",
+      "chapterId": "V",
+      "image": "assets/pages/slide-056.webp",
+      "characterId": "touhou-048"
+    },
+    {
+      "page": 57,
+      "type": "profile",
+      "title": "星熊勇仪",
+      "chapterId": "V",
+      "image": "assets/pages/slide-057.webp",
+      "characterId": "touhou-049"
+    },
+    {
+      "page": 58,
+      "type": "profile",
+      "title": "古明地觉",
+      "chapterId": "V",
+      "image": "assets/pages/slide-058.webp",
+      "characterId": "touhou-050"
+    },
+    {
+      "page": 59,
+      "type": "profile",
+      "title": "火焰猫燐",
+      "chapterId": "V",
+      "image": "assets/pages/slide-059.webp",
+      "characterId": "touhou-051"
+    },
+    {
+      "page": 60,
+      "type": "profile",
+      "title": "灵乌路空",
+      "chapterId": "V",
+      "image": "assets/pages/slide-060.webp",
+      "characterId": "touhou-052"
+    },
+    {
+      "page": 61,
+      "type": "profile",
+      "title": "古明地恋",
+      "chapterId": "V",
+      "image": "assets/pages/slide-061.webp",
+      "characterId": "touhou-053"
+    },
+    {
+      "page": 62,
+      "type": "profile",
+      "title": "娜兹玲",
+      "chapterId": "V",
+      "image": "assets/pages/slide-062.webp",
+      "characterId": "touhou-054"
+    },
+    {
+      "page": 63,
+      "type": "profile",
+      "title": "多多良小伞",
+      "chapterId": "V",
+      "image": "assets/pages/slide-063.webp",
+      "characterId": "touhou-055"
+    },
+    {
+      "page": 64,
+      "type": "profile",
+      "title": "云居一轮",
+      "chapterId": "V",
+      "image": "assets/pages/slide-064.webp",
+      "characterId": "touhou-056"
+    },
+    {
+      "page": 65,
+      "type": "profile",
+      "title": "云山",
+      "chapterId": "V",
+      "image": "assets/pages/slide-065.webp",
+      "characterId": "touhou-138"
+    },
+    {
+      "page": 66,
+      "type": "profile",
+      "title": "村纱水蜜",
+      "chapterId": "V",
+      "image": "assets/pages/slide-066.webp",
+      "characterId": "touhou-057"
+    },
+    {
+      "page": 67,
+      "type": "profile",
+      "title": "寅丸星",
+      "chapterId": "V",
+      "image": "assets/pages/slide-067.webp",
+      "characterId": "touhou-058"
+    },
+    {
+      "page": 68,
+      "type": "profile",
+      "title": "圣白莲",
+      "chapterId": "V",
+      "image": "assets/pages/slide-068.webp",
+      "characterId": "touhou-059"
+    },
+    {
+      "page": 69,
+      "type": "profile",
+      "title": "封兽鵺",
+      "chapterId": "V",
+      "image": "assets/pages/slide-069.webp",
+      "characterId": "touhou-060"
+    },
+    {
+      "page": 70,
+      "type": "profile",
+      "title": "姬海棠果",
+      "chapterId": "V",
+      "image": "assets/pages/slide-070.webp",
+      "characterId": "touhou-061"
+    },
+    {
+      "page": 71,
+      "type": "profile",
+      "title": "桑尼米尔克",
+      "chapterId": "V",
+      "image": "assets/pages/slide-071.webp",
+      "characterId": "touhou-062"
+    },
+    {
+      "page": 72,
+      "type": "profile",
+      "title": "露娜切露德",
+      "chapterId": "V",
+      "image": "assets/pages/slide-072.webp",
+      "characterId": "touhou-063"
+    },
+    {
+      "page": 73,
+      "type": "profile",
+      "title": "斯塔萨菲雅",
+      "chapterId": "V",
+      "image": "assets/pages/slide-073.webp",
+      "characterId": "touhou-064"
+    },
+    {
+      "page": 74,
+      "type": "catalog",
+      "title": "神灵、辉针与都市传说 1/2",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-074.webp",
+      "profileIds": [
+        "touhou-065",
+        "touhou-066",
+        "touhou-067",
+        "touhou-068",
+        "touhou-069",
+        "touhou-070",
+        "touhou-071",
+        "touhou-072",
+        "touhou-073"
+      ]
+    },
+    {
+      "page": 75,
+      "type": "catalog",
+      "title": "神灵、辉针与都市传说 2/2",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-075.webp",
+      "profileIds": [
+        "touhou-074",
+        "touhou-075",
+        "touhou-076",
+        "touhou-077",
+        "touhou-078",
+        "touhou-079",
+        "touhou-080",
+        "touhou-081"
+      ]
+    },
+    {
+      "page": 76,
+      "type": "profile",
+      "title": "幽谷响子",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-076.webp",
+      "characterId": "touhou-065"
+    },
+    {
+      "page": 77,
+      "type": "profile",
+      "title": "宫古芳香",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-077.webp",
+      "characterId": "touhou-066"
+    },
+    {
+      "page": 78,
+      "type": "profile",
+      "title": "霍青娥",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-078.webp",
+      "characterId": "touhou-067"
+    },
+    {
+      "page": 79,
+      "type": "profile",
+      "title": "苏我屠自古",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-079.webp",
+      "characterId": "touhou-068"
+    },
+    {
+      "page": 80,
+      "type": "profile",
+      "title": "物部布都",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-080.webp",
+      "characterId": "touhou-069"
+    },
+    {
+      "page": 81,
+      "type": "profile",
+      "title": "丰聪耳神子",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-081.webp",
+      "characterId": "touhou-070"
+    },
+    {
+      "page": 82,
+      "type": "profile",
+      "title": "二岩猯藏",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-082.webp",
+      "characterId": "touhou-071"
+    },
+    {
+      "page": 83,
+      "type": "profile",
+      "title": "秦心",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-083.webp",
+      "characterId": "touhou-072"
+    },
+    {
+      "page": 84,
+      "type": "profile",
+      "title": "若鹭姬",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-084.webp",
+      "characterId": "touhou-073"
+    },
+    {
+      "page": 85,
+      "type": "profile",
+      "title": "赤蛮奇",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-085.webp",
+      "characterId": "touhou-074"
+    },
+    {
+      "page": 86,
+      "type": "profile",
+      "title": "今泉影狼",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-086.webp",
+      "characterId": "touhou-075"
+    },
+    {
+      "page": 87,
+      "type": "profile",
+      "title": "九十九弁弁",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-087.webp",
+      "characterId": "touhou-076"
+    },
+    {
+      "page": 88,
+      "type": "profile",
+      "title": "九十九八桥",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-088.webp",
+      "characterId": "touhou-077"
+    },
+    {
+      "page": 89,
+      "type": "profile",
+      "title": "鬼人正邪",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-089.webp",
+      "characterId": "touhou-078"
+    },
+    {
+      "page": 90,
+      "type": "profile",
+      "title": "少名针妙丸",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-090.webp",
+      "characterId": "touhou-079"
+    },
+    {
+      "page": 91,
+      "type": "profile",
+      "title": "堀川雷鼓",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-091.webp",
+      "characterId": "touhou-080"
+    },
+    {
+      "page": 92,
+      "type": "profile",
+      "title": "茨木华扇",
+      "chapterId": "VI",
+      "image": "assets/pages/slide-092.webp",
+      "characterId": "touhou-081"
+    },
+    {
+      "page": 93,
+      "type": "catalog",
+      "title": "月都、四季与兽之国 1/5",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-093.webp",
+      "profileIds": [
+        "touhou-082",
+        "touhou-083",
+        "touhou-084",
+        "touhou-085",
+        "touhou-086",
+        "touhou-087",
+        "touhou-088",
+        "touhou-089",
+        "touhou-090"
+      ]
+    },
+    {
+      "page": 94,
+      "type": "catalog",
+      "title": "月都、四季与兽之国 2/5",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-094.webp",
+      "profileIds": [
+        "touhou-091",
+        "touhou-092",
+        "touhou-093",
+        "touhou-094",
+        "touhou-095",
+        "touhou-096",
+        "touhou-097",
+        "touhou-098"
+      ]
+    },
+    {
+      "page": 95,
+      "type": "catalog",
+      "title": "月都、四季与兽之国 3/5",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-095.webp",
+      "profileIds": [
+        "touhou-099",
+        "touhou-100",
+        "touhou-101",
+        "touhou-102",
+        "touhou-103",
+        "touhou-104",
+        "touhou-105",
+        "touhou-106"
+      ]
+    },
+    {
+      "page": 96,
+      "type": "catalog",
+      "title": "月都、四季与兽之国 4/5",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-096.webp",
+      "profileIds": [
+        "touhou-107",
+        "touhou-108",
+        "touhou-109",
+        "touhou-110",
+        "touhou-111",
+        "touhou-112",
+        "touhou-113",
+        "touhou-114"
+      ]
+    },
+    {
+      "page": 97,
+      "type": "catalog",
+      "title": "月都、四季与兽之国 5/5",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-097.webp",
+      "profileIds": [
+        "touhou-115",
+        "touhou-116",
+        "touhou-117",
+        "touhou-118",
+        "touhou-119",
+        "touhou-120",
+        "touhou-121",
+        "touhou-122"
+      ]
+    },
+    {
+      "page": 98,
+      "type": "profile",
+      "title": "宇佐见堇子",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-098.webp",
+      "characterId": "touhou-082"
+    },
+    {
+      "page": 99,
+      "type": "profile",
+      "title": "清兰",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-099.webp",
+      "characterId": "touhou-083"
+    },
+    {
+      "page": 100,
+      "type": "profile",
+      "title": "铃瑚",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-100.webp",
+      "characterId": "touhou-084"
+    },
+    {
+      "page": 101,
+      "type": "profile",
+      "title": "哆来咪·苏伊特",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-101.webp",
+      "characterId": "touhou-085"
+    },
+    {
+      "page": 102,
+      "type": "profile",
+      "title": "稀神探女",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-102.webp",
+      "characterId": "touhou-086"
+    },
+    {
+      "page": 103,
+      "type": "profile",
+      "title": "克劳恩皮丝",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-103.webp",
+      "characterId": "touhou-087"
+    },
+    {
+      "page": 104,
+      "type": "profile",
+      "title": "纯狐",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-104.webp",
+      "characterId": "touhou-088"
+    },
+    {
+      "page": 105,
+      "type": "profile",
+      "title": "赫卡提亚·拉碧斯拉祖利",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-105.webp",
+      "characterId": "touhou-089"
+    },
+    {
+      "page": 106,
+      "type": "profile",
+      "title": "依神女苑",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-106.webp",
+      "characterId": "touhou-090"
+    },
+    {
+      "page": 107,
+      "type": "profile",
+      "title": "依神紫苑",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-107.webp",
+      "characterId": "touhou-091"
+    },
+    {
+      "page": 108,
+      "type": "profile",
+      "title": "爱塔妮缇拉尔瓦",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-108.webp",
+      "characterId": "touhou-092"
+    },
+    {
+      "page": 109,
+      "type": "profile",
+      "title": "坂田合欢",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-109.webp",
+      "characterId": "touhou-093"
+    },
+    {
+      "page": 110,
+      "type": "profile",
+      "title": "高丽野阿吽",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-110.webp",
+      "characterId": "touhou-094"
+    },
+    {
+      "page": 111,
+      "type": "profile",
+      "title": "矢田寺成美",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-111.webp",
+      "characterId": "touhou-095"
+    },
+    {
+      "page": 112,
+      "type": "profile",
+      "title": "丁礼田舞",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-112.webp",
+      "characterId": "touhou-096"
+    },
+    {
+      "page": 113,
+      "type": "profile",
+      "title": "尔子田里乃",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-113.webp",
+      "characterId": "touhou-097"
+    },
+    {
+      "page": 114,
+      "type": "profile",
+      "title": "摩多罗隐岐奈",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-114.webp",
+      "characterId": "touhou-098"
+    },
+    {
+      "page": 115,
+      "type": "profile",
+      "title": "戎璎花",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-115.webp",
+      "characterId": "touhou-099"
+    },
+    {
+      "page": 116,
+      "type": "profile",
+      "title": "牛崎润美",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-116.webp",
+      "characterId": "touhou-100"
+    },
+    {
+      "page": 117,
+      "type": "profile",
+      "title": "庭渡久侘歌",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-117.webp",
+      "characterId": "touhou-101"
+    },
+    {
+      "page": 118,
+      "type": "profile",
+      "title": "吉吊八千慧",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-118.webp",
+      "characterId": "touhou-102"
+    },
+    {
+      "page": 119,
+      "type": "profile",
+      "title": "杖刀偶磨弓",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-119.webp",
+      "characterId": "touhou-103"
+    },
+    {
+      "page": 120,
+      "type": "profile",
+      "title": "埴安神袿姬",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-120.webp",
+      "characterId": "touhou-104"
+    },
+    {
+      "page": 121,
+      "type": "profile",
+      "title": "骊驹早鬼",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-121.webp",
+      "characterId": "touhou-105"
+    },
+    {
+      "page": 122,
+      "type": "profile",
+      "title": "饕餮尤魔",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-122.webp",
+      "characterId": "touhou-106"
+    },
+    {
+      "page": 123,
+      "type": "profile",
+      "title": "豪德寺三花",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-123.webp",
+      "characterId": "touhou-107"
+    },
+    {
+      "page": 124,
+      "type": "profile",
+      "title": "山城高岭",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-124.webp",
+      "characterId": "touhou-108"
+    },
+    {
+      "page": 125,
+      "type": "profile",
+      "title": "驹草山如",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-125.webp",
+      "characterId": "touhou-109"
+    },
+    {
+      "page": 126,
+      "type": "profile",
+      "title": "玉造魅须丸",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-126.webp",
+      "characterId": "touhou-110"
+    },
+    {
+      "page": 127,
+      "type": "profile",
+      "title": "菅牧典",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-127.webp",
+      "characterId": "touhou-111"
+    },
+    {
+      "page": 128,
+      "type": "profile",
+      "title": "饭纲丸龙",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-128.webp",
+      "characterId": "touhou-112"
+    },
+    {
+      "page": 129,
+      "type": "profile",
+      "title": "天弓千亦",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-129.webp",
+      "characterId": "touhou-113"
+    },
+    {
+      "page": 130,
+      "type": "profile",
+      "title": "姬虫百百世",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-130.webp",
+      "characterId": "touhou-114"
+    },
+    {
+      "page": 131,
+      "type": "profile",
+      "title": "孙美天",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-131.webp",
+      "characterId": "touhou-115"
+    },
+    {
+      "page": 132,
+      "type": "profile",
+      "title": "三头慧之子",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-132.webp",
+      "characterId": "touhou-116"
+    },
+    {
+      "page": 133,
+      "type": "profile",
+      "title": "天火人血枪",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-133.webp",
+      "characterId": "touhou-117"
+    },
+    {
+      "page": 134,
+      "type": "profile",
+      "title": "豫母都日狭美",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-134.webp",
+      "characterId": "touhou-118"
+    },
+    {
+      "page": 135,
+      "type": "profile",
+      "title": "日白残无",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-135.webp",
+      "characterId": "touhou-119"
+    },
+    {
+      "page": 136,
+      "type": "profile",
+      "title": "绵月丰姬",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-136.webp",
+      "characterId": "touhou-120"
+    },
+    {
+      "page": 137,
+      "type": "profile",
+      "title": "绵月依姬",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-137.webp",
+      "characterId": "touhou-121"
+    },
+    {
+      "page": 138,
+      "type": "profile",
+      "title": "本居小铃",
+      "chapterId": "VII",
+      "image": "assets/pages/slide-138.webp",
+      "characterId": "touhou-122"
+    },
+    {
+      "page": 139,
+      "type": "catalog",
+      "title": "书籍、秘封与主角 1/2",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-139.webp",
+      "profileIds": [
+        "touhou-123",
+        "touhou-124",
+        "touhou-125",
+        "touhou-126",
+        "touhou-127",
+        "touhou-128",
+        "touhou-129",
+        "touhou-130"
+      ]
+    },
+    {
+      "page": 140,
+      "type": "catalog",
+      "title": "书籍、秘封与主角 2/2",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-140.webp",
+      "profileIds": [
+        "touhou-131",
+        "touhou-132",
+        "touhou-133",
+        "touhou-134",
+        "touhou-135",
+        "touhou-136",
+        "touhou-137"
+      ]
+    },
+    {
+      "page": 141,
+      "type": "profile",
+      "title": "奥野田美宵",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-141.webp",
+      "characterId": "touhou-123"
+    },
+    {
+      "page": 142,
+      "type": "profile",
+      "title": "宫出口瑞灵",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-142.webp",
+      "characterId": "touhou-124"
+    },
+    {
+      "page": 143,
+      "type": "profile",
+      "title": "森近霖之助",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-143.webp",
+      "characterId": "touhou-125"
+    },
+    {
+      "page": 144,
+      "type": "profile",
+      "title": "稗田阿求",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-144.webp",
+      "characterId": "touhou-126"
+    },
+    {
+      "page": 145,
+      "type": "profile",
+      "title": "雾雨魔理沙",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-145.webp",
+      "characterId": "touhou-127"
+    },
+    {
+      "page": 146,
+      "type": "profile",
+      "title": "博丽灵梦",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-146.webp",
+      "characterId": "touhou-128"
+    },
+    {
+      "page": 147,
+      "type": "profile",
+      "title": "尘塚姥芽",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-147.webp",
+      "characterId": "touhou-129"
+    },
+    {
+      "page": 148,
+      "type": "profile",
+      "title": "封兽魑魅",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-148.webp",
+      "characterId": "touhou-130"
+    },
+    {
+      "page": 149,
+      "type": "profile",
+      "title": "道神驯子",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-149.webp",
+      "characterId": "touhou-131"
+    },
+    {
+      "page": 150,
+      "type": "profile",
+      "title": "维缦·浅间",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-150.webp",
+      "characterId": "touhou-132"
+    },
+    {
+      "page": 151,
+      "type": "profile",
+      "title": "磐永阿梨夜",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-151.webp",
+      "characterId": "touhou-133"
+    },
+    {
+      "page": 152,
+      "type": "profile",
+      "title": "渡里贝子",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-152.webp",
+      "characterId": "touhou-134"
+    },
+    {
+      "page": 153,
+      "type": "profile",
+      "title": "宇佐见莲子",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-153.webp",
+      "characterId": "touhou-135"
+    },
+    {
+      "page": 154,
+      "type": "profile",
+      "title": "玛艾露贝莉·赫恩",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-154.webp",
+      "characterId": "touhou-136"
+    },
+    {
+      "page": 155,
+      "type": "profile",
+      "title": "Reisen",
+      "chapterId": "VIII",
+      "image": "assets/pages/slide-155.webp",
+      "characterId": "touhou-137"
+    }
+  ],
+  "characters": [
+    {
+      "id": "touhou-001",
+      "name": "露米娅",
+      "aliases": [
+        "ルーミア",
+        "Rumia"
+      ],
+      "chapterId": "I",
+      "page": 3,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        }
+      ]
+    },
+    {
+      "id": "touhou-002",
+      "name": "大妖精",
+      "aliases": [
+        "Daiyousei"
+      ],
+      "chapterId": "I",
+      "page": 4,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        }
+      ]
+    },
+    {
+      "id": "touhou-003",
+      "name": "琪露诺",
+      "aliases": [
+        "チルノ",
+        "Cirno"
+      ],
+      "chapterId": "I",
+      "page": 5,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        },
+        {
+          "id": "work-0a6721414848",
+          "title": "东方红魔乡：New Classic"
+        }
+      ]
+    },
+    {
+      "id": "touhou-004",
+      "name": "红美铃",
+      "aliases": [
+        "紅 美鈴",
+        "Hoan Meirin / Hong Meirin"
+      ],
+      "chapterId": "I",
+      "page": 6,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        },
+        {
+          "id": "work-0a6721414848",
+          "title": "东方红魔乡：New Classic"
+        }
+      ]
+    },
+    {
+      "id": "touhou-005",
+      "name": "小恶魔",
+      "aliases": [
+        "小悪魔",
+        "Little Devil / Koakuma"
+      ],
+      "chapterId": "I",
+      "page": 7,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        }
+      ]
+    },
+    {
+      "id": "touhou-006",
+      "name": "帕秋莉·诺蕾姬",
+      "aliases": [
+        "パチュリー・ノーレッジ",
+        "Patchouli Knowledge"
+      ],
+      "chapterId": "I",
+      "page": 8,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        }
+      ]
+    },
+    {
+      "id": "touhou-007",
+      "name": "十六夜咲夜",
+      "aliases": [
+        "十六夜 咲夜",
+        "Izayoi Sakuya"
+      ],
+      "chapterId": "I",
+      "page": 9,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        },
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-008",
+      "name": "蕾米莉亚·斯卡蕾特",
+      "aliases": [
+        "レミリア・スカーレット",
+        "Remilia Scarlet"
+      ],
+      "chapterId": "I",
+      "page": 10,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        }
+      ]
+    },
+    {
+      "id": "touhou-009",
+      "name": "芙兰朵露·斯卡蕾特",
+      "aliases": [
+        "フランドール・スカーレット",
+        "Flandre Scarlet"
+      ],
+      "chapterId": "I",
+      "page": 11,
+      "works": [
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        },
+        {
+          "id": "work-0a6721414848",
+          "title": "东方红魔乡：New Classic"
+        }
+      ]
+    },
+    {
+      "id": "touhou-010",
+      "name": "蕾蒂·霍瓦特洛克",
+      "aliases": [
+        "レティ・ホワイトロック",
+        "Letty Whiterock"
+      ],
+      "chapterId": "II",
+      "page": 14,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-011",
+      "name": "橙",
+      "aliases": [
+        "橙（チェン）",
+        "Chen"
+      ],
+      "chapterId": "II",
+      "page": 15,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-012",
+      "name": "爱丽丝·玛格特洛依德",
+      "aliases": [
+        "アリス・マーガトロイド",
+        "Alice Margatroid"
+      ],
+      "chapterId": "II",
+      "page": 16,
+      "works": [
+        {
+          "id": "work-8e58580eb477",
+          "title": "东方怪绮谈"
+        },
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-013",
+      "name": "莉莉霍瓦特",
+      "aliases": [
+        "リリーホワイト",
+        "Lilywhite"
+      ],
+      "chapterId": "II",
+      "page": 17,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-014",
+      "name": "露娜萨·普莉兹姆利巴",
+      "aliases": [
+        "ルナサ・プリズムリバー",
+        "Lunasa Prismriver"
+      ],
+      "chapterId": "II",
+      "page": 18,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-015",
+      "name": "梅露兰·普莉兹姆利巴",
+      "aliases": [
+        "メルラン・プリズムリバー",
+        "Merlin Prismriver"
+      ],
+      "chapterId": "II",
+      "page": 19,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-016",
+      "name": "莉莉卡·普莉兹姆利巴",
+      "aliases": [
+        "リリカ・プリズムリバー",
+        "Lyrica Prismriver"
+      ],
+      "chapterId": "II",
+      "page": 20,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-017",
+      "name": "魂魄妖梦",
+      "aliases": [
+        "魂魄 妖夢（こんぱく ようむ）",
+        "Konpaku Youmu"
+      ],
+      "chapterId": "II",
+      "page": 21,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-018",
+      "name": "西行寺幽幽子",
+      "aliases": [
+        "西行寺 幽々子",
+        "Saigyouji Yuyuko，Yuyuko Saigyouzi"
+      ],
+      "chapterId": "II",
+      "page": 22,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-019",
+      "name": "八云蓝",
+      "aliases": [
+        "八雲 藍（やくも らん）",
+        "Yakumo Ran"
+      ],
+      "chapterId": "II",
+      "page": 23,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-020",
+      "name": "八云紫",
+      "aliases": [
+        "八雲 紫",
+        "Yakumo Yukari"
+      ],
+      "chapterId": "II",
+      "page": 24,
+      "works": [
+        {
+          "id": "work-362d0e9ae369",
+          "title": "东方妖妖梦"
+        }
+      ]
+    },
+    {
+      "id": "touhou-021",
+      "name": "伊吹萃香",
+      "aliases": [
+        "伊吹 萃香",
+        "Ibuki Suika"
+      ],
+      "chapterId": "II",
+      "page": 25,
+      "works": [
+        {
+          "id": "work-5dc125a38631",
+          "title": "东方萃梦想"
+        }
+      ]
+    },
+    {
+      "id": "touhou-022",
+      "name": "莉格露·奈特巴格",
+      "aliases": [
+        "リグル・ナイトバグ",
+        "Wriggle Nightbug"
+      ],
+      "chapterId": "III",
+      "page": 28,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-023",
+      "name": "米斯蒂娅·萝蕾拉",
+      "aliases": [
+        "ミスティア・ローレライ",
+        "Mystia Lorelei"
+      ],
+      "chapterId": "III",
+      "page": 29,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-024",
+      "name": "上白泽慧音",
+      "aliases": [
+        "上白泽慧音（白泽）",
+        "白泽慧音",
+        "上白沢 慧音",
+        "Kamishirasawa Keine"
+      ],
+      "chapterId": "III",
+      "page": 30,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-025",
+      "name": "因幡天为",
+      "aliases": [
+        "因幡帝",
+        "因幡 てゐ",
+        "Inaba Tewi"
+      ],
+      "chapterId": "III",
+      "page": 31,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        },
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        }
+      ]
+    },
+    {
+      "id": "touhou-026",
+      "name": "铃仙·优昙华院·因幡",
+      "aliases": [
+        "鈴仙・優曇華院・イナバ",
+        "Reisen Udongein Inaba"
+      ],
+      "chapterId": "III",
+      "page": 32,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        },
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        },
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-027",
+      "name": "八意永琳",
+      "aliases": [
+        "八意 永琳（やごころ えいりん）",
+        "Yagokoro Eirin"
+      ],
+      "chapterId": "III",
+      "page": 33,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-028",
+      "name": "蓬莱山辉夜",
+      "aliases": [
+        "蓬莱山 輝夜",
+        "Houraisan Kaguya"
+      ],
+      "chapterId": "III",
+      "page": 34,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-030",
+      "name": "藤原妹红",
+      "aliases": [
+        "藤原 妹紅（ふじわら の もこう）",
+        "Huziwara no Mokou"
+      ],
+      "chapterId": "III",
+      "page": 35,
+      "works": [
+        {
+          "id": "work-af3de231ebbc",
+          "title": "东方永夜抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-031",
+      "name": "梅蒂欣·梅兰可莉",
+      "aliases": [
+        "メディスン・メランコリー",
+        "Medicine Melancholy"
+      ],
+      "chapterId": "III",
+      "page": 36,
+      "works": [
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        }
+      ]
+    },
+    {
+      "id": "touhou-032",
+      "name": "风见幽香",
+      "aliases": [
+        "風見 幽香（かざみ ゆうか）",
+        "Kazami Yuka"
+      ],
+      "chapterId": "III",
+      "page": 37,
+      "works": [
+        {
+          "id": "work-4b3c2cdbe18b",
+          "title": "东方幻想乡"
+        },
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        }
+      ]
+    },
+    {
+      "id": "touhou-033",
+      "name": "射命丸文",
+      "aliases": [
+        "射命丸 文（しゃめいまる あや）",
+        "Syameimaru Aya，Shameimaru Aya"
+      ],
+      "chapterId": "III",
+      "page": 38,
+      "works": [
+        {
+          "id": "work-661ca1d58c41",
+          "title": "东方文花帖（书籍）"
+        },
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        },
+        {
+          "id": "work-2ca3711ebddf",
+          "title": "东方文花帖（游戏）"
+        },
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-034",
+      "name": "小野塚小町",
+      "aliases": [
+        "小野塚 小町",
+        "Onozuka Komachi，Komachi Onoduka"
+      ],
+      "chapterId": "III",
+      "page": 39,
+      "works": [
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        }
+      ]
+    },
+    {
+      "id": "touhou-035",
+      "name": "四季映姬·夜摩仙那度",
+      "aliases": [
+        "四季映姫・ヤマザナドゥ（しきえいき・やまざなどぅ）",
+        "Shikieiki Yamaxanadu"
+      ],
+      "chapterId": "III",
+      "page": 40,
+      "works": [
+        {
+          "id": "work-32795eceea07",
+          "title": "东方花映塚"
+        }
+      ]
+    },
+    {
+      "id": "touhou-036",
+      "name": "秋静叶",
+      "aliases": [
+        "秋 静葉",
+        "Aki Sizuha"
+      ],
+      "chapterId": "IV",
+      "page": 42,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-037",
+      "name": "秋穰子",
+      "aliases": [
+        "秋 穣子（あき みのりこ）",
+        "Aki Minoriko"
+      ],
+      "chapterId": "IV",
+      "page": 43,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-038",
+      "name": "键山雏",
+      "aliases": [
+        "鍵山 雛",
+        "Kagiyama Hina"
+      ],
+      "chapterId": "IV",
+      "page": 44,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-039",
+      "name": "河城荷取",
+      "aliases": [
+        "河城 にとり（かわしろ にとり）",
+        "Kawasiro Nitori"
+      ],
+      "chapterId": "IV",
+      "page": 45,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        },
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        },
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-040",
+      "name": "犬走椛",
+      "aliases": [
+        "犬走 椛（いぬばしり もみじ）",
+        "Inubashiri Momizi"
+      ],
+      "chapterId": "IV",
+      "page": 46,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-041",
+      "name": "东风谷早苗",
+      "aliases": [
+        "東風谷 早苗（こちや さなえ）",
+        "Kotiya Sanae，Kochiya Sanae"
+      ],
+      "chapterId": "IV",
+      "page": 47,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        },
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        },
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        },
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        },
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-042",
+      "name": "八坂神奈子",
+      "aliases": [
+        "八坂 神奈子",
+        "Yasaka Kanako"
+      ],
+      "chapterId": "IV",
+      "page": 48,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-043",
+      "name": "洩矢诹访子",
+      "aliases": [
+        "洩矢 諏訪子（もりや すわこ）",
+        "Moriya Suwako"
+      ],
+      "chapterId": "IV",
+      "page": 49,
+      "works": [
+        {
+          "id": "work-e129301df074",
+          "title": "东方风神录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-044",
+      "name": "永江衣玖",
+      "aliases": [
+        "永江 衣玖",
+        "Nagae Iku"
+      ],
+      "chapterId": "IV",
+      "page": 50,
+      "works": [
+        {
+          "id": "work-fe068d8c4cab",
+          "title": "东方绯想天"
+        }
+      ]
+    },
+    {
+      "id": "touhou-045",
+      "name": "比那名居天子",
+      "aliases": [
+        "比那名居 天子（ひななゐ てんし）",
+        "Hinanawi Tenshi"
+      ],
+      "chapterId": "IV",
+      "page": 51,
+      "works": [
+        {
+          "id": "work-fe068d8c4cab",
+          "title": "东方绯想天"
+        }
+      ]
+    },
+    {
+      "id": "touhou-046",
+      "name": "琪斯美",
+      "aliases": [
+        "キスメ",
+        "Kisume"
+      ],
+      "chapterId": "V",
+      "page": 54,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-047",
+      "name": "黑谷山女",
+      "aliases": [
+        "黒谷 ヤマメ（くろだに やまめ）",
+        "Kurodani Yamame"
+      ],
+      "chapterId": "V",
+      "page": 55,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-048",
+      "name": "水桥帕露西",
+      "aliases": [
+        "水橋 パルスィ（みずはし パルスィ）",
+        "Mizuhashi Parsee"
+      ],
+      "chapterId": "V",
+      "page": 56,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-049",
+      "name": "星熊勇仪",
+      "aliases": [
+        "星熊 勇儀",
+        "Hoshiguma Yugi"
+      ],
+      "chapterId": "V",
+      "page": 57,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-050",
+      "name": "古明地觉",
+      "aliases": [
+        "古明地 さとり（こめいじ さとり）",
+        "Komeiji Satori"
+      ],
+      "chapterId": "V",
+      "page": 58,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-051",
+      "name": "火焰猫燐",
+      "aliases": [
+        "火焔猫 燐（かえんびょう りん）",
+        "Kaenbyou Rin"
+      ],
+      "chapterId": "V",
+      "page": 59,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-052",
+      "name": "灵乌路空",
+      "aliases": [
+        "霊烏路 空（れいうじ うつほ）",
+        "Reiuji Utsuho，Reiuzi Utuho"
+      ],
+      "chapterId": "V",
+      "page": 60,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        }
+      ]
+    },
+    {
+      "id": "touhou-053",
+      "name": "古明地恋",
+      "aliases": [
+        "古明地 こいし",
+        "Komeiji Koishi"
+      ],
+      "chapterId": "V",
+      "page": 61,
+      "works": [
+        {
+          "id": "work-1d1bed7e1097",
+          "title": "东方地灵殿"
+        },
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        },
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-054",
+      "name": "娜兹玲",
+      "aliases": [
+        "ナズーリン",
+        "Nazrin"
+      ],
+      "chapterId": "V",
+      "page": 62,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        }
+      ]
+    },
+    {
+      "id": "touhou-055",
+      "name": "多多良小伞",
+      "aliases": [
+        "多々良 小傘",
+        "Tatara Kogasa"
+      ],
+      "chapterId": "V",
+      "page": 63,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        }
+      ]
+    },
+    {
+      "id": "touhou-056",
+      "name": "云居一轮",
+      "aliases": [
+        "雲居一輪",
+        "雲居 一輪",
+        "Kumoi Ichirin"
+      ],
+      "chapterId": "V",
+      "page": 64,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        },
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        },
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-138",
+      "name": "云山",
+      "aliases": [
+        "雲山",
+        "Unzan"
+      ],
+      "chapterId": "V",
+      "page": 65,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        },
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        },
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-057",
+      "name": "村纱水蜜",
+      "aliases": [
+        "村紗 水蜜",
+        "Murasa Minamitu，Captain Murasa Minamitsu"
+      ],
+      "chapterId": "V",
+      "page": 66,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        }
+      ]
+    },
+    {
+      "id": "touhou-058",
+      "name": "寅丸星",
+      "aliases": [
+        "寅丸 星（とらまる しょう）",
+        "Toramaru Shou"
+      ],
+      "chapterId": "V",
+      "page": 67,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        }
+      ]
+    },
+    {
+      "id": "touhou-059",
+      "name": "圣白莲",
+      "aliases": [
+        "聖 白蓮",
+        "Hiziri Byakuren，Hijiri Byakuren"
+      ],
+      "chapterId": "V",
+      "page": 68,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        },
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        },
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-060",
+      "name": "封兽鵺",
+      "aliases": [
+        "封獣 ぬえ（ほうじゅう ぬえ）",
+        "Houjuu Nue"
+      ],
+      "chapterId": "V",
+      "page": 69,
+      "works": [
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        }
+      ]
+    },
+    {
+      "id": "touhou-061",
+      "name": "姬海棠果",
+      "aliases": [
+        "姫海棠 はたて（ひめかいどう はたて）",
+        "Himekaidou Hatate"
+      ],
+      "chapterId": "V",
+      "page": 70,
+      "works": [
+        {
+          "id": "work-3b3f94534573",
+          "title": "东方文花帖DS"
+        }
+      ]
+    },
+    {
+      "id": "touhou-062",
+      "name": "桑尼米尔克",
+      "aliases": [
+        "サニーミルク",
+        "Sunny Milk"
+      ],
+      "chapterId": "V",
+      "page": 71,
+      "works": [
+        {
+          "id": "work-370cfb27fe43",
+          "title": "东方三月精 ～ Eastern and Little Nature Deity."
+        }
+      ]
+    },
+    {
+      "id": "touhou-063",
+      "name": "露娜切露德",
+      "aliases": [
+        "ルナチャイルド",
+        "Luna Child，Lunar Child"
+      ],
+      "chapterId": "V",
+      "page": 72,
+      "works": [
+        {
+          "id": "work-370cfb27fe43",
+          "title": "东方三月精 ～ Eastern and Little Nature Deity."
+        }
+      ]
+    },
+    {
+      "id": "touhou-064",
+      "name": "斯塔萨菲雅",
+      "aliases": [
+        "スターサファイア",
+        "Star Sapphire"
+      ],
+      "chapterId": "V",
+      "page": 73,
+      "works": [
+        {
+          "id": "work-370cfb27fe43",
+          "title": "东方三月精 ～ Eastern and Little Nature Deity."
+        }
+      ]
+    },
+    {
+      "id": "touhou-065",
+      "name": "幽谷响子",
+      "aliases": [
+        "幽谷 響子",
+        "Kasodani Kyouko"
+      ],
+      "chapterId": "VI",
+      "page": 76,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-066",
+      "name": "宫古芳香",
+      "aliases": [
+        "宮古 芳香",
+        "Miyako Yoshika"
+      ],
+      "chapterId": "VI",
+      "page": 77,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-067",
+      "name": "霍青娥",
+      "aliases": [
+        "霍 青娥（かく せいが）",
+        "Kaku Seiga"
+      ],
+      "chapterId": "VI",
+      "page": 78,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-068",
+      "name": "苏我屠自古",
+      "aliases": [
+        "蘇我 屠自古（そが の とじこ）",
+        "Soga no Toziko"
+      ],
+      "chapterId": "VI",
+      "page": 79,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-069",
+      "name": "物部布都",
+      "aliases": [
+        "物部 布都",
+        "Mononobe no Futo"
+      ],
+      "chapterId": "VI",
+      "page": 80,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-070",
+      "name": "丰聪耳神子",
+      "aliases": [
+        "豊聡耳 神子（とよさとみみ の みこ）",
+        "Toyosatomimi no Miko"
+      ],
+      "chapterId": "VI",
+      "page": 81,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        },
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        },
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        },
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-071",
+      "name": "二岩猯藏",
+      "aliases": [
+        "二ッ岩 マミゾウ",
+        "Hutatsuiwa Mamizou，Futatsuiwa Mamizou，Futatuiwa Mamizou"
+      ],
+      "chapterId": "VI",
+      "page": 82,
+      "works": [
+        {
+          "id": "work-f63d8d0099fc",
+          "title": "东方神灵庙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-072",
+      "name": "秦心",
+      "aliases": [
+        "秦 こころ（はた の こころ）",
+        "Hata no Kokoro"
+      ],
+      "chapterId": "VI",
+      "page": 83,
+      "works": [
+        {
+          "id": "work-20a67244c521",
+          "title": "东方心绮楼"
+        }
+      ]
+    },
+    {
+      "id": "touhou-073",
+      "name": "若鹭姬",
+      "aliases": [
+        "わかさぎ姫（わかさぎひめ）",
+        "Wakasagihime"
+      ],
+      "chapterId": "VI",
+      "page": 84,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-074",
+      "name": "赤蛮奇",
+      "aliases": [
+        "赤蛮奇（せきばんき）",
+        "Sekibanki"
+      ],
+      "chapterId": "VI",
+      "page": 85,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-075",
+      "name": "今泉影狼",
+      "aliases": [
+        "今泉 影狼（いまいずみ かげろう）",
+        "Imaizumi Kagerou"
+      ],
+      "chapterId": "VI",
+      "page": 86,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-076",
+      "name": "九十九弁弁",
+      "aliases": [
+        "九十九 弁々",
+        "Tsukumo Benben"
+      ],
+      "chapterId": "VI",
+      "page": 87,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-077",
+      "name": "九十九八桥",
+      "aliases": [
+        "九十九 八橋（つくも やつはし）",
+        "Tsukumo Yatsuhashi"
+      ],
+      "chapterId": "VI",
+      "page": 88,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-078",
+      "name": "鬼人正邪",
+      "aliases": [
+        "鬼人 正邪（きじん せいじゃ）",
+        "Kijin Seija"
+      ],
+      "chapterId": "VI",
+      "page": 89,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-079",
+      "name": "少名针妙丸",
+      "aliases": [
+        "少名 針妙丸",
+        "Sukuna Shinmyoumaru"
+      ],
+      "chapterId": "VI",
+      "page": 90,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-080",
+      "name": "堀川雷鼓",
+      "aliases": [
+        "堀川 雷鼓",
+        "Horikawa Raiko"
+      ],
+      "chapterId": "VI",
+      "page": 91,
+      "works": [
+        {
+          "id": "work-d27592fd722b",
+          "title": "东方辉针城"
+        }
+      ]
+    },
+    {
+      "id": "touhou-081",
+      "name": "茨木华扇",
+      "aliases": [
+        "茨木 華扇",
+        "Ibaraki Kasen"
+      ],
+      "chapterId": "VI",
+      "page": 92,
+      "works": [
+        {
+          "id": "work-752ccff7a5d1",
+          "title": "东方茨歌仙"
+        }
+      ]
+    },
+    {
+      "id": "touhou-082",
+      "name": "宇佐见堇子",
+      "aliases": [
+        "宇佐見 菫子（うさみ すみれこ）",
+        "Usami Sumireko"
+      ],
+      "chapterId": "VII",
+      "page": 98,
+      "works": [
+        {
+          "id": "work-ef7f19cc2b4c",
+          "title": "东方深秘录"
+        }
+      ]
+    },
+    {
+      "id": "touhou-083",
+      "name": "清兰",
+      "aliases": [
+        "清蘭",
+        "Seiran"
+      ],
+      "chapterId": "VII",
+      "page": 99,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-084",
+      "name": "铃瑚",
+      "aliases": [
+        "鈴瑚（りんご）",
+        "Ringo"
+      ],
+      "chapterId": "VII",
+      "page": 100,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-085",
+      "name": "哆来咪·苏伊特",
+      "aliases": [
+        "ドレミー・スイート",
+        "Doremy Sweet"
+      ],
+      "chapterId": "VII",
+      "page": 101,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-086",
+      "name": "稀神探女",
+      "aliases": [
+        "稀神 サグメ",
+        "Kisin Sagume，Kishin Sagume"
+      ],
+      "chapterId": "VII",
+      "page": 102,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-087",
+      "name": "克劳恩皮丝",
+      "aliases": [
+        "クラウンピース",
+        "Clownpiece"
+      ],
+      "chapterId": "VII",
+      "page": 103,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-088",
+      "name": "纯狐",
+      "aliases": [
+        "純狐（じゅんこ）",
+        "Junko"
+      ],
+      "chapterId": "VII",
+      "page": 104,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-089",
+      "name": "赫卡提亚·拉碧斯拉祖利",
+      "aliases": [
+        "ヘカーティア・ラピスラズリ",
+        "Hecatia Lapislazuli"
+      ],
+      "chapterId": "VII",
+      "page": 105,
+      "works": [
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-090",
+      "name": "依神女苑",
+      "aliases": [
+        "依神 女苑（よりがみ じょおん）",
+        "Yorigami Jyoon"
+      ],
+      "chapterId": "VII",
+      "page": 106,
+      "works": [
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-091",
+      "name": "依神紫苑",
+      "aliases": [
+        "依神 紫苑（よりがみ しおん）",
+        "Yorigami Shion"
+      ],
+      "chapterId": "VII",
+      "page": 107,
+      "works": [
+        {
+          "id": "work-7ba63e55b8d9",
+          "title": "东方凭依华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-092",
+      "name": "爱塔妮缇拉尔瓦",
+      "aliases": [
+        "エタニティラルバ",
+        "Eternity Larva"
+      ],
+      "chapterId": "VII",
+      "page": 108,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-093",
+      "name": "坂田合欢",
+      "aliases": [
+        "坂田 ネムノ（さかた ねむの）",
+        "Sakata Nemuno"
+      ],
+      "chapterId": "VII",
+      "page": 109,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-094",
+      "name": "高丽野阿吽",
+      "aliases": [
+        "高麗野 あうん",
+        "Komano Aunn，Komano Aun"
+      ],
+      "chapterId": "VII",
+      "page": 110,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-095",
+      "name": "矢田寺成美",
+      "aliases": [
+        "矢田寺 成美（やたでら なるみ）",
+        "Yatadera Narumi"
+      ],
+      "chapterId": "VII",
+      "page": 111,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-096",
+      "name": "丁礼田舞",
+      "aliases": [
+        "丁礼田 舞",
+        "Teireida Mai"
+      ],
+      "chapterId": "VII",
+      "page": 112,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-097",
+      "name": "尔子田里乃",
+      "aliases": [
+        "爾子田 里乃（にしだ さとの）",
+        "Nishida Satono"
+      ],
+      "chapterId": "VII",
+      "page": 113,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-098",
+      "name": "摩多罗隐岐奈",
+      "aliases": [
+        "摩多羅 隠岐奈（またら おきな）",
+        "Matara Okina"
+      ],
+      "chapterId": "VII",
+      "page": 114,
+      "works": [
+        {
+          "id": "work-324afa10784b",
+          "title": "东方天空璋"
+        }
+      ]
+    },
+    {
+      "id": "touhou-099",
+      "name": "戎璎花",
+      "aliases": [
+        "戎 瓔花",
+        "Ebisu Eika / Ebisu Youka"
+      ],
+      "chapterId": "VII",
+      "page": 115,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-100",
+      "name": "牛崎润美",
+      "aliases": [
+        "牛崎 潤美",
+        "Ushizaki Urumi"
+      ],
+      "chapterId": "VII",
+      "page": 116,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-101",
+      "name": "庭渡久侘歌",
+      "aliases": [
+        "庭渡 久侘歌（にわたり くたか）",
+        "Niwatari Kutaka"
+      ],
+      "chapterId": "VII",
+      "page": 117,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-102",
+      "name": "吉吊八千慧",
+      "aliases": [
+        "吉弔 八千慧",
+        "Kitcho Yachie，Kitchou Yachie"
+      ],
+      "chapterId": "VII",
+      "page": 118,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-103",
+      "name": "杖刀偶磨弓",
+      "aliases": [
+        "杖刀偶 磨弓（じょうとうぐう まゆみ）",
+        "Joutougu Mayumi"
+      ],
+      "chapterId": "VII",
+      "page": 119,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-104",
+      "name": "埴安神袿姬",
+      "aliases": [
+        "埴安神 袿姫",
+        "Haniyasushin Keiki"
+      ],
+      "chapterId": "VII",
+      "page": 120,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-105",
+      "name": "骊驹早鬼",
+      "aliases": [
+        "驪駒 早鬼（くろこま さき）",
+        "Kurokoma Saki"
+      ],
+      "chapterId": "VII",
+      "page": 121,
+      "works": [
+        {
+          "id": "work-6e7a0145325f",
+          "title": "东方鬼形兽"
+        }
+      ]
+    },
+    {
+      "id": "touhou-106",
+      "name": "饕餮尤魔",
+      "aliases": [
+        "饕餮 尤魔",
+        "Toutetsu Yuma，Toutetu Yuma"
+      ],
+      "chapterId": "VII",
+      "page": 122,
+      "works": [
+        {
+          "id": "work-12686d8c1899",
+          "title": "东方刚欲异闻"
+        },
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-107",
+      "name": "豪德寺三花",
+      "aliases": [
+        "豪徳寺 ミケ（ごうとくじ みけ）",
+        "Goutokuzi Mike"
+      ],
+      "chapterId": "VII",
+      "page": 123,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-108",
+      "name": "山城高岭",
+      "aliases": [
+        "山城 たかね",
+        "Yamashiro Takane"
+      ],
+      "chapterId": "VII",
+      "page": 124,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-109",
+      "name": "驹草山如",
+      "aliases": [
+        "駒草 山如（こまくさ さんにょ）",
+        "Komakusa Sannyo"
+      ],
+      "chapterId": "VII",
+      "page": 125,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-110",
+      "name": "玉造魅须丸",
+      "aliases": [
+        "玉造 魅須丸",
+        "Tamatsukuri Misumaru"
+      ],
+      "chapterId": "VII",
+      "page": 126,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-111",
+      "name": "菅牧典",
+      "aliases": [
+        "菅牧 典（くだまき つかさ）",
+        "Kudamaki Tsukasa"
+      ],
+      "chapterId": "VII",
+      "page": 127,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-112",
+      "name": "饭纲丸龙",
+      "aliases": [
+        "飯綱丸 龍",
+        "Iizunamaru Megumu"
+      ],
+      "chapterId": "VII",
+      "page": 128,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-113",
+      "name": "天弓千亦",
+      "aliases": [
+        "天弓 千亦（てんきゅう ちまた）",
+        "Tenkyu Chimata"
+      ],
+      "chapterId": "VII",
+      "page": 129,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-114",
+      "name": "姬虫百百世",
+      "aliases": [
+        "姫虫 百々世（ひめむし ももよ）",
+        "Himemushi Momoyo"
+      ],
+      "chapterId": "VII",
+      "page": 130,
+      "works": [
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        }
+      ]
+    },
+    {
+      "id": "touhou-115",
+      "name": "孙美天",
+      "aliases": [
+        "孫 美天（そん びてん）",
+        "Son Biten"
+      ],
+      "chapterId": "VII",
+      "page": 131,
+      "works": [
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-116",
+      "name": "三头慧之子",
+      "aliases": [
+        "三頭 慧ノ子",
+        "Mitsugashira Enoko"
+      ],
+      "chapterId": "VII",
+      "page": 132,
+      "works": [
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-117",
+      "name": "天火人血枪",
+      "aliases": [
+        "天火人 ちやり（テンカジン ちやり）",
+        "Tenkajin Chiyari"
+      ],
+      "chapterId": "VII",
+      "page": 133,
+      "works": [
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-118",
+      "name": "豫母都日狭美",
+      "aliases": [
+        "豫母都 日狭美",
+        "Yomotsu Hisami"
+      ],
+      "chapterId": "VII",
+      "page": 134,
+      "works": [
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-119",
+      "name": "日白残无",
+      "aliases": [
+        "日白 残無（にっぱく ざんむ）",
+        "Nippaku Zanmu"
+      ],
+      "chapterId": "VII",
+      "page": 135,
+      "works": [
+        {
+          "id": "work-b7011fc64526",
+          "title": "东方兽王园"
+        }
+      ]
+    },
+    {
+      "id": "touhou-120",
+      "name": "绵月丰姬",
+      "aliases": [
+        "綿月 豊姫（わたつき の とよひめ）",
+        "Watatsuki no Toyohime，Watatsuki Toyohime"
+      ],
+      "chapterId": "VII",
+      "page": 136,
+      "works": [
+        {
+          "id": "work-df71337248e8",
+          "title": "东方儚月抄"
+        },
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-121",
+      "name": "绵月依姬",
+      "aliases": [
+        "綿月 依姫（わたつき の よりひめ）",
+        "Watatsuki no Yorihime"
+      ],
+      "chapterId": "VII",
+      "page": 137,
+      "works": [
+        {
+          "id": "work-df71337248e8",
+          "title": "东方儚月抄"
+        }
+      ]
+    },
+    {
+      "id": "touhou-122",
+      "name": "本居小铃",
+      "aliases": [
+        "本居 小鈴（もとおり こすず）",
+        "Motoori Kosuzu"
+      ],
+      "chapterId": "VII",
+      "page": 138,
+      "works": [
+        {
+          "id": "work-70268b937ec0",
+          "title": "东方铃奈庵"
+        }
+      ]
+    },
+    {
+      "id": "touhou-123",
+      "name": "奥野田美宵",
+      "aliases": [
+        "奥野田 美宵",
+        "Okunoda Miyoi"
+      ],
+      "chapterId": "VIII",
+      "page": 141,
+      "works": [
+        {
+          "id": "work-25b93ba16e36",
+          "title": "东方醉蝶华"
+        }
+      ]
+    },
+    {
+      "id": "touhou-124",
+      "name": "宫出口瑞灵",
+      "aliases": [
+        "宮出口 瑞霊",
+        "Miyadeguchi Mizuchi"
+      ],
+      "chapterId": "VIII",
+      "page": 142,
+      "works": [
+        {
+          "id": "work-7823e64b73f6",
+          "title": "东方智灵奇传"
+        }
+      ]
+    },
+    {
+      "id": "touhou-125",
+      "name": "森近霖之助",
+      "aliases": [
+        "森近 霖之助",
+        "Morichika Rinnosuke"
+      ],
+      "chapterId": "VIII",
+      "page": 143,
+      "works": [
+        {
+          "id": "work-4022f1613450",
+          "title": "东方香霖堂"
+        }
+      ]
+    },
+    {
+      "id": "touhou-126",
+      "name": "稗田阿求",
+      "aliases": [
+        "稗田 阿求（ひえだ の あきゅう）",
+        "Hieda no Akyuu"
+      ],
+      "chapterId": "VIII",
+      "page": 144,
+      "works": [
+        {
+          "id": "work-2b032b83297b",
+          "title": "幺乐团的历史1"
+        },
+        {
+          "id": "work-0e058486a55a",
+          "title": "东方求闻史纪"
+        },
+        {
+          "id": "work-e6bf018056c3",
+          "title": "东方求闻口授"
+        },
+        {
+          "id": "work-70268b937ec0",
+          "title": "东方铃奈庵"
+        }
+      ]
+    },
+    {
+      "id": "touhou-127",
+      "name": "雾雨魔理沙",
+      "aliases": [
+        "霧雨 魔理沙",
+        "Kirisame Marisa"
+      ],
+      "chapterId": "VIII",
+      "page": 145,
+      "works": [
+        {
+          "id": "work-b28e9f82a4bc",
+          "title": "东方封魔录"
+        },
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        },
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        },
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        },
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        },
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        },
+        {
+          "id": "work-0a6721414848",
+          "title": "东方红魔乡：New Classic"
+        }
+      ]
+    },
+    {
+      "id": "touhou-128",
+      "name": "博丽灵梦",
+      "aliases": [
+        "博麗 霊夢（はくれい れいむ）",
+        "Hakurei Reimu"
+      ],
+      "chapterId": "VIII",
+      "page": 146,
+      "works": [
+        {
+          "id": "work-52625565f976",
+          "title": "东方灵异传"
+        },
+        {
+          "id": "work-1b5abb738229",
+          "title": "东方红魔乡"
+        },
+        {
+          "id": "work-cdce006320fa",
+          "title": "东方星莲船"
+        },
+        {
+          "id": "work-5472873f4104",
+          "title": "东方绀珠传"
+        },
+        {
+          "id": "work-7847b7368c25",
+          "title": "东方虹龙洞"
+        },
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        },
+        {
+          "id": "work-0a6721414848",
+          "title": "东方红魔乡：New Classic"
+        }
+      ]
+    },
+    {
+      "id": "touhou-129",
+      "name": "尘塚姥芽",
+      "aliases": [
+        "塵塚 ウバメ",
+        "Chirizuka Ubame"
+      ],
+      "chapterId": "VIII",
+      "page": 147,
+      "works": [
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-130",
+      "name": "封兽魑魅",
+      "aliases": [
+        "封獣 チミ（ほうじゅう ちみ）",
+        "Houju Chimi"
+      ],
+      "chapterId": "VIII",
+      "page": 148,
+      "works": [
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-131",
+      "name": "道神驯子",
+      "aliases": [
+        "道神 馴子",
+        "Michigami Nareko"
+      ],
+      "chapterId": "VIII",
+      "page": 149,
+      "works": [
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-132",
+      "name": "维缦·浅间",
+      "aliases": [
+        "ユイマン・浅間（ゆいまん あさま）",
+        "Yuiman Asama"
+      ],
+      "chapterId": "VIII",
+      "page": 150,
+      "works": [
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-133",
+      "name": "磐永阿梨夜",
+      "aliases": [
+        "磐永 阿梨夜（いわなが ありや）",
+        "Iwanaga Ariya"
+      ],
+      "chapterId": "VIII",
+      "page": 151,
+      "works": [
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-134",
+      "name": "渡里贝子",
+      "aliases": [
+        "渡里妮娜",
+        "渡里 ニナ",
+        "Watari Nina"
+      ],
+      "chapterId": "VIII",
+      "page": 152,
+      "works": [
+        {
+          "id": "work-de4a4145ef72",
+          "title": "东方锦上京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-135",
+      "name": "宇佐见莲子",
+      "aliases": [
+        "宇佐見 蓮子（うさみ れんこ）",
+        "Usami Renko"
+      ],
+      "chapterId": "VIII",
+      "page": 153,
+      "works": [
+        {
+          "id": "work-a781fe6375c3",
+          "title": "莲台野夜行"
+        },
+        {
+          "id": "work-e5e94f272fe4",
+          "title": "灵长新益京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-136",
+      "name": "玛艾露贝莉·赫恩",
+      "aliases": [
+        "梅莉",
+        "Maribel Hearn",
+        "マエリベリー・ハーン",
+        "Maribel Hearn（官方资料未给出拼写，仅作参考）"
+      ],
+      "chapterId": "VIII",
+      "page": 154,
+      "works": [
+        {
+          "id": "work-a781fe6375c3",
+          "title": "莲台野夜行"
+        },
+        {
+          "id": "work-e5e94f272fe4",
+          "title": "灵长新益京"
+        }
+      ]
+    },
+    {
+      "id": "touhou-137",
+      "name": "Reisen",
+      "aliases": [
+        "铃仙二号",
+        "レイセン"
+      ],
+      "chapterId": "VIII",
+      "page": 155,
+      "works": [
+        {
+          "id": "work-df71337248e8",
+          "title": "东方儚月抄"
+        }
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "work-370cfb27fe43",
+      "title": "东方三月精 ～ Eastern and Little Nature Deity.",
+      "characterIds": [
+        "touhou-062",
+        "touhou-063",
+        "touhou-064"
+      ]
+    },
+    {
+      "id": "work-df71337248e8",
+      "title": "东方儚月抄",
+      "characterIds": [
+        "touhou-120",
+        "touhou-121",
+        "touhou-137"
+      ]
+    },
+    {
+      "id": "work-b7011fc64526",
+      "title": "东方兽王园",
+      "characterIds": [
+        "touhou-041",
+        "touhou-106",
+        "touhou-115",
+        "touhou-116",
+        "touhou-117",
+        "touhou-118",
+        "touhou-119"
+      ]
+    },
+    {
+      "id": "work-7ba63e55b8d9",
+      "title": "东方凭依华",
+      "characterIds": [
+        "touhou-026",
+        "touhou-039",
+        "touhou-053",
+        "touhou-056",
+        "touhou-138",
+        "touhou-059",
+        "touhou-070",
+        "touhou-090",
+        "touhou-091"
+      ]
+    },
+    {
+      "id": "work-12686d8c1899",
+      "title": "东方刚欲异闻",
+      "characterIds": [
+        "touhou-106"
+      ]
+    },
+    {
+      "id": "work-1d1bed7e1097",
+      "title": "东方地灵殿",
+      "characterIds": [
+        "touhou-046",
+        "touhou-047",
+        "touhou-048",
+        "touhou-049",
+        "touhou-050",
+        "touhou-051",
+        "touhou-052",
+        "touhou-053"
+      ]
+    },
+    {
+      "id": "work-324afa10784b",
+      "title": "东方天空璋",
+      "characterIds": [
+        "touhou-092",
+        "touhou-093",
+        "touhou-094",
+        "touhou-095",
+        "touhou-096",
+        "touhou-097",
+        "touhou-098"
+      ]
+    },
+    {
+      "id": "work-362d0e9ae369",
+      "title": "东方妖妖梦",
+      "characterIds": [
+        "touhou-010",
+        "touhou-011",
+        "touhou-012",
+        "touhou-013",
+        "touhou-014",
+        "touhou-015",
+        "touhou-016",
+        "touhou-017",
+        "touhou-018",
+        "touhou-019",
+        "touhou-020"
+      ]
+    },
+    {
+      "id": "work-b28e9f82a4bc",
+      "title": "东方封魔录",
+      "characterIds": [
+        "touhou-127"
+      ]
+    },
+    {
+      "id": "work-4b3c2cdbe18b",
+      "title": "东方幻想乡",
+      "characterIds": [
+        "touhou-032"
+      ]
+    },
+    {
+      "id": "work-20a67244c521",
+      "title": "东方心绮楼",
+      "characterIds": [
+        "touhou-039",
+        "touhou-053",
+        "touhou-056",
+        "touhou-138",
+        "touhou-059",
+        "touhou-070",
+        "touhou-072"
+      ]
+    },
+    {
+      "id": "work-8e58580eb477",
+      "title": "东方怪绮谈",
+      "characterIds": [
+        "touhou-012"
+      ]
+    },
+    {
+      "id": "work-3b3f94534573",
+      "title": "东方文花帖DS",
+      "characterIds": [
+        "touhou-061"
+      ]
+    },
+    {
+      "id": "work-661ca1d58c41",
+      "title": "东方文花帖（书籍）",
+      "characterIds": [
+        "touhou-033"
+      ]
+    },
+    {
+      "id": "work-2ca3711ebddf",
+      "title": "东方文花帖（游戏）",
+      "characterIds": [
+        "touhou-033"
+      ]
+    },
+    {
+      "id": "work-cdce006320fa",
+      "title": "东方星莲船",
+      "characterIds": [
+        "touhou-041",
+        "touhou-054",
+        "touhou-055",
+        "touhou-056",
+        "touhou-138",
+        "touhou-057",
+        "touhou-058",
+        "touhou-059",
+        "touhou-060",
+        "touhou-127",
+        "touhou-128"
+      ]
+    },
+    {
+      "id": "work-7823e64b73f6",
+      "title": "东方智灵奇传",
+      "characterIds": [
+        "touhou-124"
+      ]
+    },
+    {
+      "id": "work-af3de231ebbc",
+      "title": "东方永夜抄",
+      "characterIds": [
+        "touhou-022",
+        "touhou-023",
+        "touhou-024",
+        "touhou-025",
+        "touhou-026",
+        "touhou-027",
+        "touhou-028",
+        "touhou-030"
+      ]
+    },
+    {
+      "id": "work-e6bf018056c3",
+      "title": "东方求闻口授",
+      "characterIds": [
+        "touhou-126"
+      ]
+    },
+    {
+      "id": "work-0e058486a55a",
+      "title": "东方求闻史纪",
+      "characterIds": [
+        "touhou-126"
+      ]
+    },
+    {
+      "id": "work-ef7f19cc2b4c",
+      "title": "东方深秘录",
+      "characterIds": [
+        "touhou-039",
+        "touhou-053",
+        "touhou-056",
+        "touhou-138",
+        "touhou-059",
+        "touhou-070",
+        "touhou-082"
+      ]
+    },
+    {
+      "id": "work-52625565f976",
+      "title": "东方灵异传",
+      "characterIds": [
+        "touhou-128"
+      ]
+    },
+    {
+      "id": "work-f63d8d0099fc",
+      "title": "东方神灵庙",
+      "characterIds": [
+        "touhou-065",
+        "touhou-066",
+        "touhou-067",
+        "touhou-068",
+        "touhou-069",
+        "touhou-070",
+        "touhou-071"
+      ]
+    },
+    {
+      "id": "work-1b5abb738229",
+      "title": "东方红魔乡",
+      "characterIds": [
+        "touhou-001",
+        "touhou-002",
+        "touhou-003",
+        "touhou-004",
+        "touhou-005",
+        "touhou-006",
+        "touhou-007",
+        "touhou-008",
+        "touhou-009",
+        "touhou-127",
+        "touhou-128"
+      ]
+    },
+    {
+      "id": "work-0a6721414848",
+      "title": "东方红魔乡：New Classic",
+      "characterIds": [
+        "touhou-003",
+        "touhou-004",
+        "touhou-009",
+        "touhou-127",
+        "touhou-128"
+      ]
+    },
+    {
+      "id": "work-5472873f4104",
+      "title": "东方绀珠传",
+      "characterIds": [
+        "touhou-026",
+        "touhou-041",
+        "touhou-083",
+        "touhou-084",
+        "touhou-085",
+        "touhou-086",
+        "touhou-087",
+        "touhou-088",
+        "touhou-089",
+        "touhou-127",
+        "touhou-128"
+      ]
+    },
+    {
+      "id": "work-fe068d8c4cab",
+      "title": "东方绯想天",
+      "characterIds": [
+        "touhou-044",
+        "touhou-045"
+      ]
+    },
+    {
+      "id": "work-32795eceea07",
+      "title": "东方花映塚",
+      "characterIds": [
+        "touhou-025",
+        "touhou-026",
+        "touhou-031",
+        "touhou-032",
+        "touhou-033",
+        "touhou-034",
+        "touhou-035"
+      ]
+    },
+    {
+      "id": "work-752ccff7a5d1",
+      "title": "东方茨歌仙",
+      "characterIds": [
+        "touhou-081"
+      ]
+    },
+    {
+      "id": "work-5dc125a38631",
+      "title": "东方萃梦想",
+      "characterIds": [
+        "touhou-021"
+      ]
+    },
+    {
+      "id": "work-7847b7368c25",
+      "title": "东方虹龙洞",
+      "characterIds": [
+        "touhou-007",
+        "touhou-041",
+        "touhou-107",
+        "touhou-108",
+        "touhou-109",
+        "touhou-110",
+        "touhou-111",
+        "touhou-112",
+        "touhou-113",
+        "touhou-114",
+        "touhou-127",
+        "touhou-128"
+      ]
+    },
+    {
+      "id": "work-d27592fd722b",
+      "title": "东方辉针城",
+      "characterIds": [
+        "touhou-073",
+        "touhou-074",
+        "touhou-075",
+        "touhou-076",
+        "touhou-077",
+        "touhou-078",
+        "touhou-079",
+        "touhou-080"
+      ]
+    },
+    {
+      "id": "work-25b93ba16e36",
+      "title": "东方醉蝶华",
+      "characterIds": [
+        "touhou-123"
+      ]
+    },
+    {
+      "id": "work-70268b937ec0",
+      "title": "东方铃奈庵",
+      "characterIds": [
+        "touhou-122",
+        "touhou-126"
+      ]
+    },
+    {
+      "id": "work-de4a4145ef72",
+      "title": "东方锦上京",
+      "characterIds": [
+        "touhou-120",
+        "touhou-127",
+        "touhou-128",
+        "touhou-129",
+        "touhou-130",
+        "touhou-131",
+        "touhou-132",
+        "touhou-133",
+        "touhou-134"
+      ]
+    },
+    {
+      "id": "work-e129301df074",
+      "title": "东方风神录",
+      "characterIds": [
+        "touhou-033",
+        "touhou-036",
+        "touhou-037",
+        "touhou-038",
+        "touhou-039",
+        "touhou-040",
+        "touhou-041",
+        "touhou-042",
+        "touhou-043"
+      ]
+    },
+    {
+      "id": "work-4022f1613450",
+      "title": "东方香霖堂",
+      "characterIds": [
+        "touhou-125"
+      ]
+    },
+    {
+      "id": "work-6e7a0145325f",
+      "title": "东方鬼形兽",
+      "characterIds": [
+        "touhou-099",
+        "touhou-100",
+        "touhou-101",
+        "touhou-102",
+        "touhou-103",
+        "touhou-104",
+        "touhou-105"
+      ]
+    },
+    {
+      "id": "work-2b032b83297b",
+      "title": "幺乐团的历史1",
+      "characterIds": [
+        "touhou-126"
+      ]
+    },
+    {
+      "id": "work-e5e94f272fe4",
+      "title": "灵长新益京",
+      "characterIds": [
+        "touhou-135",
+        "touhou-136"
+      ]
+    },
+    {
+      "id": "work-a781fe6375c3",
+      "title": "莲台野夜行",
+      "characterIds": [
+        "touhou-135",
+        "touhou-136"
+      ]
+    }
+  ],
+  "redirects": {
+    "touhou-029": "touhou-024"
+  },
+  "downloads": {
+    "pptx": "downloads/东方Project_幻想乡博物志_2026修订版_r2.pptx",
+    "pdf": "downloads/东方Project_幻想乡博物志_2026修订版_r2.pdf"
+  },
+  "copyright": "这是东方Project同人AI插图手册，非官方出版，内容含剧情剧透。相关角色与作品权利归ZUN／上海爱丽丝幻乐团等原权利人所有。本手册用于教学展示与非商业免费下载，不提供游戏音频下载。"
+}
