@@ -891,7 +891,7 @@
       "type": "catalog",
       "title": "神灵、辉针与都市传说 2/2",
       "chapterId": "VI",
-      "image": "assets/pages/slide-075.webp",
+      "image": "assets/pages/slide-075-r4.webp",
       "profileIds": [
         "touhou-074",
         "touhou-075",
@@ -1012,7 +1012,7 @@
       "type": "profile",
       "title": "鬼人正邪",
       "chapterId": "VI",
-      "image": "assets/pages/slide-089.webp",
+      "image": "assets/pages/slide-089-r4.webp",
       "characterId": "touhou-078"
     },
     {
@@ -4466,8 +4466,8 @@
     "touhou-029": "touhou-024"
   },
   "downloads": {
-    "pptx": "downloads/东方Project_幻想乡博物志_2026修订版_r3.pptx",
-    "pdf": "downloads/东方Project_幻想乡博物志_2026修订版_r3.pdf"
+    "pptx": "downloads/东方Project_幻想乡博物志_2026修订版_r4.pptx",
+    "pdf": "downloads/东方Project_幻想乡博物志_2026修订版_r4.pdf"
   },
   "copyright": "这是东方Project同人AI插图手册，非官方出版，内容含剧情剧透。相关角色与作品权利归ZUN／上海爱丽丝幻乐团等原权利人所有。本手册用于教学展示与非商业免费下载，不提供游戏音频下载。"
 }
