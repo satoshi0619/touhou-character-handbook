@@ -3,7 +3,7 @@
   "title": "幻想乡博物志",
   "subtitle": "东方Project人物手册",
   "edition": "2026年10月修订版",
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-17",
   "scope": "沿用原册主要人物范围，包含《东方锦上京》、秘封俱乐部及Reisen。按独立人物建档，形态合并；作品入口为已整理的精选登场记录。",
   "stats": {
     "pages": 155,
@@ -1096,7 +1096,7 @@
       "type": "catalog",
       "title": "月都、四季与兽之国 4/5",
       "chapterId": "VII",
-      "image": "assets/pages/slide-096.webp",
+      "image": "assets/pages/slide-096-r3.webp",
       "profileIds": [
         "touhou-107",
         "touhou-108",
@@ -1370,7 +1370,7 @@
       "type": "profile",
       "title": "饭纲丸龙",
       "chapterId": "VII",
-      "image": "assets/pages/slide-128.webp",
+      "image": "assets/pages/slide-128-r3.webp",
       "characterId": "touhou-112"
     },
     {
@@ -4466,8 +4466,8 @@
     "touhou-029": "touhou-024"
   },
   "downloads": {
-    "pptx": "downloads/东方Project_幻想乡博物志_2026修订版_r2.pptx",
-    "pdf": "downloads/东方Project_幻想乡博物志_2026修订版_r2.pdf"
+    "pptx": "downloads/东方Project_幻想乡博物志_2026修订版_r3.pptx",
+    "pdf": "downloads/东方Project_幻想乡博物志_2026修订版_r3.pdf"
   },
   "copyright": "这是东方Project同人AI插图手册，非官方出版，内容含剧情剧透。相关角色与作品权利归ZUN／上海爱丽丝幻乐团等原权利人所有。本手册用于教学展示与非商业免费下载，不提供游戏音频下载。"
 }
